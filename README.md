@@ -1,13 +1,13 @@
 SVG-Stacks
 ==========
 
-Create SVG-Stacks from SVG-Images
+Create a SVG-Stack from a single SVG-Image
 
-Inspired by https://github.com/preciousforever/SVG-Stacker
 
-0. Create an SVG-File
+
+0. Create
 -----------
-Create an SVG (e.g. in Illustrator) with a unique name for each layer and save it (e.g. on your Desktop)
+Create the SVG-Image (e.g. with Illustrator) with a unique name for each layer and save it (e.g. on your Desktop)
 
 
 1. Download
@@ -25,3 +25,7 @@ xsltproc --novalid Desktop/stack.xslt Desktop/svg-image.svg > Desktop/stacked-sv
 3. Embed
 -----------
 Embed the SVG and use each layer with a hash
+
+
+
+Inspired by https://github.com/preciousforever/SVG-Stacker
