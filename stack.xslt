@@ -5,8 +5,8 @@
 		<xsl:copy>
 			<svg:style type="text/css">
 				<![CDATA[
-					.i { display: none; fill: #010101; }
-					.i:target { display: block; }
+					.i {display:none;}
+					.i:target {display:block;}
 				]]>
 			</svg:style>
 			<xsl:apply-templates />	
