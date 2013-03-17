@@ -9,7 +9,8 @@ Why do we still need to build things like image sprites, to deal with a cluster 
 
 See the full tutorial on how to use SVG-Stacking: http://hofmannsven.com/2013/laboratory/svg-stacking/
 
-And check out the demo: http://hofmannsven.com/demo/svg-stacking/
+SVG Stacks within an IMG-tag: http://hofmannsven.com/demo/svg-stacking/
+SVG Stacks within a Background-Image: hofmannsven.com/demo/svg-stacks/background/
 
 
 
